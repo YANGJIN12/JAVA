@@ -1,0 +1,3 @@
+module collectionframework {
+	exports collectionframework;
+}
