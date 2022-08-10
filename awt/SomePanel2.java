@@ -1,16 +1,9 @@
 package namoo.awt;
 
-import java.awt.BorderLayout;
+
 import java.awt.Button;
-import java.awt.Color;
-import java.awt.Component;
-import java.awt.FlowLayout;
-import java.awt.Frame;
 import java.awt.GridLayout;
-import java.awt.Label;
-import java.awt.Panel;
-import java.awt.TextArea;
-import java.awt.Window;
+
 
 /**
  * 사용자 정의 Window
